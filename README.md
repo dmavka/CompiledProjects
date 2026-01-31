@@ -2,5 +2,5 @@
 repo for assembly packages
 
 
-#usage
+# usage
 catalog with name "c" is catagory packeges with first symbol "c"
