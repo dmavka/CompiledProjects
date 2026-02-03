@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Image Viewer
+Comment=Download and display images from URLs
+Exec=imager
+Icon=applications-multimedia
+Terminal=false
+Categories=Graphics;Photography;Utility;
+StartupWMClass=Imager
